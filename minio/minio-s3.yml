@@ -52,4 +52,4 @@ spec:
     name: api
   selector:
     app: minio
-  type: NodePort
+  type: NodePort 
