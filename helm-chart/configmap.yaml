@@ -5,7 +5,7 @@ metadata:
   namespace: flux-system
 data:
   5-demo-values.yaml: |-
-    replicaCount: 6
+    replicaCount: 3
     service:
       type: NodePort
       nodePort: 30015
